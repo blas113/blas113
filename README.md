@@ -1,9 +1,9 @@
 # 🌟 Bienvenidos 🌟   
 - Mi nombre es Blas, tengo 20 años y soy de Buenos Aires  
 - Soy desarrollador Full Stack 
+   
   
-  
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blas-pesce-4881781b8/)
 
 # 💻 Tech Stack:
