@@ -1,5 +1,5 @@
 # 🌟 Bienvenidos 🌟   
-- Mi nombre es Blas, tengo 21 años y soy de Buenos Aires   
+- Mi nombre es Blas, tengo 22 años y soy de Buenos Aires   
 - Soy desarrollador web Full Stack y desarrollador mobile 
     
    
